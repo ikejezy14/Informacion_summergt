@@ -31,6 +31,7 @@
   padding:0px 95px;
   font-size: 1.3em;
   color:white;
+  margin-top: 40px;
 }
 .requeriments{
   background-color:white;
@@ -48,7 +49,7 @@
   margin-bottom: 60px;
 }
 .requeriments .only-img img{
-  width: 30%;
+  width: 21%;
 }
 
 .requeriments__p p{
